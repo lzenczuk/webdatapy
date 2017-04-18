@@ -4,7 +4,7 @@ setup(
     name='webdatapy',
     version='0.1',
     description='Web data collecting and processing lib',
-    url='http://github.com/lzenczuk/web_data',
+    url='http://github.com/lzenczuk/webdatapy',
     author='Lucjan Zenczuk',
     author_email='lucjan.zenczuk@gmail.com  ',
     license='MIT',
